@@ -1,0 +1,61 @@
+{
+  "data" :
+[
+    {
+      "id": "1",
+      "name": "Persoonal Portfolio",
+      "img": "https://i.ibb.co/vQ9GhF0/portfolio.png",
+      "github": "https://github.com/Yuvaraj643/Portfolio",
+      "preview": "https://yuvaraj-portfolio.netlify.app/"
+    },
+    {
+      "id": "2",
+      "name": "Notes App (React and Redux)",
+      "img": "https://i.ibb.co/g6dqxBx/notes.png",
+      "github": "https://github.com/Yuvaraj643/Notes-App-By_React",
+      "preview": "https://notes-app-by-yuvaraj.netlify.app/"
+    },
+    {
+      "id": "3",
+      "name": "Covid Cases in India(API)",
+      "img": "https://i.ibb.co/h81yHfX/covid.png",
+      "github": "https://github.com/Yuvaraj643/Covid-API-Project",
+      "preview": "https://covid-cases-india-api.netlify.app/"
+    },
+    {
+      "id": "4",
+      "name": "List of Countries(API)",
+      "img": "https://i.ibb.co/BKvDpHj/countries.png",
+      "github": "https://github.com/Yuvaraj643/Countries-API-Project",
+      "preview": "https://countries-fetched-using-api.netlify.app/"
+    },
+    {
+      "id": "5",
+      "name": "Random Meal Generator(API)",
+      "img": "https://i.ibb.co/581GFMt/radom-meal.png",
+      "github": "https://github.com/Yuvaraj643/Generate-Random-Meal-with-API",
+      "preview": "https://random-meal-generator-using-api.netlify.app/"
+    },
+    {
+      "id": "6",
+      "name": "Allu Arjun Tribute Page",
+      "img": "https://i.ibb.co/ZBHyBMX/aa.png",
+      "github": "https://github.com/Yuvaraj643/Tribute-Page-Allu-Arjun-",
+      "preview": "https://allu-arjun-tribute-page.netlify.app/"
+    },
+    {
+      "id": "7",
+      "name": "Zomato-Landing Page",
+      "img": "https://i.ibb.co/jVjrLSY/zomato.png",
+      "github": "https://github.com/Yuvaraj643/Zomato-Landing-Page",
+      "preview": "https://zomato-landing-page-ten-azure.vercel.app/"
+    },
+    {
+      "id": "8",
+      "name": "Paytm-Landing Page",
+      "img": "https://i.ibb.co/mD5xkkL/paytm.png",
+      "github": "https://github.com/Yuvaraj643/Paytm-Clone",
+      "preview": "https://paytm-clone-main-byyuvarajv-2552b9.netlify.app/"
+    }
+]
+}
